@@ -6,14 +6,14 @@ app = Flask(__name__)
 
 # 🔥 MULTI WAREHOUSE CONFIG
 ACCOUNTS = {
-    "RATAN": {
+    "RATAN WH": {
         "cred": "billdesk@swissmilitaryindia.com",
         "password": "Emiza@123",
         "seller_id": "80000493",
         "warehouse_id": "600071"
     },
 
-    "ACT B2B": {
+    "ACT B2B WH": {
         "cred": "act@swissmilitaryindia.com",
         "password": "Swiss@123",
         "seller_id": "80000332",
