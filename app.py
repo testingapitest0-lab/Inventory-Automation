@@ -18,6 +18,14 @@ ACCOUNTS = {
         "password": "Swiss@123",
         "seller_id": "80000332",
         "warehouse_id": "600040"
+    },
+
+    "Nelamangala": {
+        "cred": "sanjay.mahto@swissmilitaryindia.com",
+        "password": "Emiza@123",
+        "seller_id": "80000476",
+        "warehouse_id": "600049",
+        "user_id": "300000000850"
     }
 
 }
